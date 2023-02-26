@@ -1,0 +1,1 @@
+F:\vmware\vmrun.exe -T ws start "F:\newopenwrt\newopenwrt.vmx" nogui
