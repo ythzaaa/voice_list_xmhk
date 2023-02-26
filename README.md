@@ -1,4 +1,3 @@
-# voice_list_xmhk
 0.特别周 Special Week (Umamusume Pretty Derby)
 1.无声铃鹿 Silence Suzuka (Umamusume Pretty Derby)
 2.东海帝王 Tokai Teio (Umamusume Pretty Derby)
